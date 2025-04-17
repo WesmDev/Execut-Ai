@@ -53,6 +53,7 @@ Para funcionar corretamente, é necessário fornecer uma chave da **OpenAI API**
 3. O código será criado, salvo e poderá ser executado automaticamente.
 4. Você verá o status da operação na parte inferior da janela.
 
+Vídeo de Uso: 🔗 [www.linkedin.com/in/wesleymendonca-dev/Execut-Ai]([https://www.linkedin.com/in/wesleymendonca-dev/](https://www.linkedin.com/posts/wesleymendonca-dev_inovacao-innovation-tecnologia-activity-7317883144429363200-qqMU?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKe8HMBEIVD2ZA-0C686DfwjjASTzJiVXs))
 ---
 
 ## 📁 Estrutura de Pastas
