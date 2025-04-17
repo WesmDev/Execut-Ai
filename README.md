@@ -30,10 +30,9 @@
    ```
 
 > 📝 O script instala automaticamente as dependências necessárias, mas você pode instalar manualmente com:
-
-```bash
-pip install openai pyperclip
-```
+> ```bash
+> pip install openai pyperclip
+> ```
 
 ---
 
@@ -53,7 +52,14 @@ Para funcionar corretamente, é necessário fornecer uma chave da **OpenAI API**
 3. O código será criado, salvo e poderá ser executado automaticamente.
 4. Você verá o status da operação na parte inferior da janela.
 
-Vídeo de Uso: 🔗 [www.linkedin.com/in/wesleymendonca-dev/Execut-Ai]([https://www.linkedin.com/in/wesleymendonca-dev/](https://www.linkedin.com/posts/wesleymendonca-dev_inovacao-innovation-tecnologia-activity-7317883144429363200-qqMU?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKe8HMBEIVD2ZA-0C686DfwjjASTzJiVXs))
+---
+
+### 📽️ Demonstração em Vídeo
+
+Confira como o **EXECUT AI** funciona na prática:
+
+🔗 [Assista ao vídeo demonstrativo no LinkedIn](https://www.linkedin.com/posts/wesleymendonca-dev_inovacao-innovation-tecnologia-activity-7317883144429363200-qqMU?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKe8HMBEIVD2ZA-0C686DfwjjASTzJiVXs)
+
 ---
 
 ## 📁 Estrutura de Pastas
@@ -82,10 +88,10 @@ Distribuído sob a licença **MIT**. Veja o arquivo [`LICENSE`](LICENSE) para ma
 
 ---
 
-## ☕ Apoie este Projeto
+## ☕ Apoio
 
 Se este projeto te ajudou ou te inspirou, considere fazer uma doação para me apoiar:
 
 - 💖 **Chave Pix**: `wesleymendoncadev@gmail.com`
 
-Sua contribuição ajuda a manter este projeto vivo, gratuito e em constante evolução. Obrigado pelo apoio! 🙏
+Obrigado pelo apoio! 🙏
