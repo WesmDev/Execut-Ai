@@ -1,4 +1,4 @@
-# 🤖 EXECUT AI API - v0.1
+# 🤖 EXECUT AI - v0.1
 
 *EXECUT AI* é uma aplicação *low code* construída em Python que utiliza a API da OpenAI para interpretar solicitações do usuário e transformá-las automaticamente em scripts executáveis no seu computador. Com isso, a IA interage com programas e arquivos locais, ampliando sua atuação para além da web.
 
