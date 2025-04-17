@@ -15,6 +15,7 @@ Sob as seguintes condições:
 🚫 NãoComercial — Você não pode usar o material para fins comerciais.
 
 Autor: Wesley Chagas de Mendonça
+
 Data de publicação: 16/04/2025
 
 Link da licença completa: https://creativecommons.org/licenses/by-nc/4.0/
